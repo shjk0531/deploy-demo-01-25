@@ -48,3 +48,5 @@ src/main/generated
 main.tf
 terraform.tfstate
 variables.tf
+terraform.tfstate.backup
+.terraform.lock.hcl
