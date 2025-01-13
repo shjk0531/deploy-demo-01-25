@@ -44,3 +44,7 @@ src/main/generated
 
 .idea
 .terraform
+
+main.tf
+terraform.tfstate
+variables.tf
