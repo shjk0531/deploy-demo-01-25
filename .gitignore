@@ -45,8 +45,8 @@ src/main/generated
 .idea
 .terraform
 
-main.tf
-terraform.tfstate
-variables.tf
-terraform.tfstate.backup
+*.tf
+*.tfstate
+*.tfstate.backup
 .terraform.lock.hcl
+.terraform.*
